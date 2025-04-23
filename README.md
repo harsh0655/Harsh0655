@@ -18,8 +18,6 @@ Email Me 👉 ✉️ *harshgupta16042005@gmail.com* For Collaboration/Project or
 
 ## 🧠 DSA Skills:
 
-![](https://leetcard.jacoblin.cool/krishn_harsh_888?ext=contest)
-
 <!-- Snake Game Repo View -->
 
 <div align="center">
